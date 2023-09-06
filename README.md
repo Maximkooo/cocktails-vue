@@ -1,29 +1,32 @@
-# cocktails-vue
+# COCKTAILS
 
-This template should help get you started developing with Vue 3 in Vite.
+<a href="https://cocktails-vue.netlify.app/">DEMO</a>
 
-## Recommended IDE Setup
+This wonderful app will help you find a new cocktail recipe for yourself and your friends. Here you can find a random cocktail or select the main ingredient to find possible cocktail variations. Spend your weekend with a great mood and delicious drinks. Have fun!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<h2>Technology</h2>
 
-## Customize configuration
+- Vue3
+- Pinia
+- SASS
+- Element Plus
+- Swiper
+- Axios
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<h2>Version</h2>
 
-## Project Setup
+release v1.0
 
-```sh
-npm install
-```
+<h2>Bug tracker</h2>
 
-### Compile and Hot-Reload for Development
+If you find a bug, please report it <a href="https://github.com/Maximkooo/cocktails-vue/issues">here on Github!</a>
 
-```sh
-npm run dev
-```
+<h2>Developer</h2>
 
-### Compile and Minify for Production
+Developed by Maksym Synytskyi
 
-```sh
-npm run build
-```
+<ul>
+  <li><a href="https://www.linkedin.com/in/maksym-synytskyi-27a0a7222/">LinkedIn Profile</a></li>
+  <li><a href="https://github.com/Maximkooo">Github Profile</a></li>
+  <li><a href="https://maximkooo.github.io/synytskyi-portfolio/">Portfolio</a></li>
+</ul>
